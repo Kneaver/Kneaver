@@ -1,4 +1,4 @@
 Kneaver
 =======
 
-Kneaver Open source code base
+Root project to hold issues and general setup files
